@@ -1,5 +1,5 @@
 # Live demo
-[https://investment-calculator-app.vercel.app/](https://simple-add-user-app.vercel.app/)
+https://simple-add-user-app.vercel.app/
 
 # Getting Started with Create React App
 
